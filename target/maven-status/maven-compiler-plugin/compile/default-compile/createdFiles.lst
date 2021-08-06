@@ -1,0 +1,13 @@
+science\atlarge\opencraft\opencraft\gateway\listener\CommandClientListner.class
+science\atlarge\opencraft\opencraft\gateway\Main$2.class
+science\atlarge\opencraft\opencraft\gateway\listener\PlayerRemoteListener.class
+science\atlarge\opencraft\opencraft\gateway\io\BlobClientAzure.class
+science\atlarge\opencraft\opencraft\gateway\policy\Policy.class
+science\atlarge\opencraft\opencraft\gateway\RemoteServer.class
+science\atlarge\opencraft\opencraft\gateway\serverless\HttpCall.class
+science\atlarge\opencraft\opencraft\gateway\Main.class
+science\atlarge\opencraft\opencraft\gateway\Player.class
+science\atlarge\opencraft\opencraft\gateway\policy\ConnectRemote.class
+science\atlarge\opencraft\opencraft\gateway\Main$2$1.class
+science\atlarge\opencraft\opencraft\gateway\Main$1.class
+science\atlarge\opencraft\opencraft\gateway\policy\SimplePolicy.class
